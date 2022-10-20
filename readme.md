@@ -6,11 +6,17 @@ LICENCE: [MIT](./license.md)
 ---
 
 ### Содержание:
-1.
-2. [git add](./add.md)
- 
+1.[Что такое git?](./git.md)
+
+2.[git add](./add.md)
+
+3.[git status](./status.md)
+
+4.[git commit](./commit.md)
+
+5.[git push](./push.md)
  
  ---
 
  GIT logo by Jason long - http://git-scm.com/downloads/logos,
-license: CC BY 3.0(https://creativecommons.org/licenses/by/3.0/)
+license: CC BY 3.0
